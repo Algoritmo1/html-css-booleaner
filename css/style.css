@@ -1,3 +1,7 @@
+/* body{
+    width: 1200px;
+} */
+
 .intestazione{
     width: 100%;
     /* background-image: url(pattern.png); */
@@ -17,4 +21,17 @@
 
 .didascalia_tim{
     font-size: 20px;
+}
+
+h4{
+    color: lightslategrey;
+    font-size: bold;
+}
+
+/* .yellow_line{
+    background-color: lime;
+} */
+
+td, th{
+	text-align: left;
 }
