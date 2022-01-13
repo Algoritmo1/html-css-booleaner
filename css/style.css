@@ -1,0 +1,20 @@
+.intestazione{
+    width: 100%;
+    /* background-image: url(pattern.png); */
+    background-color: lightseagreen;
+    /* background-size: cover; */
+    background-repeat: repeat;
+}
+
+#logo{
+   width: 40px;
+   height: 40px;
+}
+.didascalia_title{
+    color: aqua;
+    font-size: 20px;
+}
+
+.didascalia_tim{
+    font-size: 20px;
+}
