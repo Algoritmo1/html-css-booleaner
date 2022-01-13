@@ -7,7 +7,6 @@
     width: 100%;
     background-image: url(../img/pattern.png);
     background-color: lightseagreen;
-    /* background-size: cover; */
     background-repeat: repeat;
 }
 
@@ -15,6 +14,7 @@
     width: 190px;
     height: 220px;
 }
+
 .didascalia_title{
     color: grey;
     font-size: 20px;
@@ -33,7 +33,7 @@ span, .yellow_line{
     background-color: lime;
 } 
 
-.impostazioni_tab_1{
+.section_table, .impostazioni_tab_1{
     text-align: center;
 }
 
