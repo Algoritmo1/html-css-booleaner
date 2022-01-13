@@ -3,24 +3,25 @@
 } */
 
 .intestazione{
+    height: 160px;
     width: 100%;
-    /* background-image: url(pattern.png); */
+    background-image: url(../img/pattern.png);
     background-color: lightseagreen;
     /* background-size: cover; */
     background-repeat: repeat;
 }
 
 #logo{
-   width: 40px;
-   height: 40px;
+    width: 190px;
+    height: 220px;
 }
 .didascalia_title{
-    color: aqua;
+    color: grey;
     font-size: 20px;
 }
 
 .didascalia_tim{
-    font-size: 20px;
+    font-size: 12px;
 }
 
 h4{
@@ -28,10 +29,23 @@ h4{
     font-size: bold;
 }
 
-/* .yellow_line{
+span, .yellow_line{
     background-color: lime;
-} */
+} 
 
-td, th{
-	text-align: left;
+.impostazioni_tab_1{
+    text-align: center;
+}
+
+.tabella_color_blue{
+    background-color: mediumblue;
+}
+
+.colonna_grande{
+    width: 40%;
+    text-align: left;
+}
+
+.tabella_color_green{
+    background-color: mediumspringgreen;
 }
